@@ -5,3 +5,5 @@ void ShowTasks();
 void AddTask();
 
 void EditTask();
+
+void DeleteTask();
