@@ -1,0 +1,30 @@
+# Visual Studio folders
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Build files
+*.obj
+*.o
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.pch
+*.idb
+
+# Visual Studio user-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# CMake build directory
+build/
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
